@@ -24,7 +24,7 @@ redcarpet:
 
 paginate: 3
 paginate_path: ":num"
-baseurl: "blog-1"
+baseurl: "/blog-1"
 
 
 
