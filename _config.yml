@@ -22,7 +22,7 @@ redcarpet:
 
 
 
-paginate: 10
+paginate: 3
 paginate_path: ":num"
 baseurl: "blog-1"
 
@@ -37,8 +37,8 @@ disqus_shortname: "rainyalley"
 
 
 
-url: "http://blog.rainyalley.com"
-imgrepo: "http://blog.rainyalley.com/static/img"
+url: "http://codejuan.github.io"
+imgrepo: "http://codejuan.github.io/static/img"
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
 
