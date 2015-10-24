@@ -22,18 +22,18 @@ redcarpet:
 
 
 
-paginate: 3
+paginate: 5
 paginate_path: ":num"
 baseurl: "/blog-1"
 
 
 
-title: "testtest"
-email: "dubuyuye@yeah.net"
-description: "Developer"
-github_username:  "dubuyuye"
+title: "CodeJuan"
+email: "xh@decbug.com"
+description: "Continuous Learning"
+github_username:  "codejuan"
 swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
-disqus_shortname: "rainyalley"
+disqus_shortname: "CodeJuan"
 
 
 
