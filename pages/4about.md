@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 icon: octicon-heart
 published: true
+isNavItem: true
 ---
 
 自我介绍什么的，最讨厌了！
