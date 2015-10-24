@@ -7,7 +7,7 @@
 .highlight .c { color: #008800; font-style: italic } /* Comment */
 .highlight .err { border: 1px solid #FF0000 } /* Error */
 .highlight .k { color: #AA22FF; font-weight: bold } /* Keyword */
-.highlight .o { color: #666666 } /* Operator */
+.highlight .o { color: #FF8000 } /* Operator */
 .highlight .cm { color: #008800; font-style: italic } /* Comment.Multiline */
 .highlight .cp { color: #008800 } /* Comment.Preproc */
 .highlight .c1 { color: #008800; font-style: italic } /* Comment.Single */
@@ -29,6 +29,7 @@
 .highlight .kr { color: #AA22FF; font-weight: bold } /* Keyword.Reserved */
 .highlight .kt { color: #00BB00; font-weight: bold } /* Keyword.Type */
 .highlight .m { color: #666666 } /* Literal.Number */
+.highlight .m { color: #000080 } /* n */
 .highlight .s { color: #BB4444 } /* Literal.String */
 .highlight .na { color: #BB4444 } /* Name.Attribute */
 .highlight .nb { color: #AA22FF } /* Name.Builtin */
