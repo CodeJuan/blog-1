@@ -11,6 +11,7 @@ code {
   color: #999
   word-break: break-all;
   word-wrap: break-word;
+  background-color: #272822;
 }
  
 // Solarized Light Pygments 
