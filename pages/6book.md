@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: book
 permalink: /book/
 icon: octicon-list-unordered
