@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 自动调用windbg分析dump
 date: 2015-04-15 23:30:09
 categories:
