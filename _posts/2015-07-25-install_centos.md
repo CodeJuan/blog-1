@@ -56,7 +56,7 @@ sudo ntsysv
 
 
 ## 安装启动SSH
-```shell
+```sh
 yum install ssh
 service sshd start
 chkconfig sshd on
@@ -67,7 +67,7 @@ chkconfig sshd on
 - 进入路由器管理页面，DHCP - 静态地址分配 - 绑定MAC和IP
 
 ## 安装vim git
-```shell
+```sh
 yum -y install vim
 yum -y install git
 ```
