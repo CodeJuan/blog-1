@@ -39,7 +39,7 @@ Orchestration|Heat|Orchestrates multiple composite cloud applications by using e
 
 # 一个call的前世今生
 ## neutron/common/rpc.py init
-```sequence
+```
 common/rpc->oslo_messaging/transport:get_transport
 oslo_messaging/transport->stevedore:DriverManager
 stevedore->impl_rabbit:get impl_rabbit
@@ -53,7 +53,7 @@ oslo_messaging/transport-->common/rpc:return transport
 
 
 ## neutron/plugins/ml2/drivers/openvswitch/agent/ovs_neutron_agent.py
-```sequence
+```
 OVSNeutronAgent->OVSNeutronAgent: __init__
 OVSNeutronAgent->OVSNeutronAgent: setup_rpc
 setup_rpc->OVSPluginApi: plugin_rpc = OVSPluginApi
@@ -70,7 +70,7 @@ common/rpc-->PluginApi: return client
 
 
 ## call
-```sequence
+```
 OVSNeutronAgent->OVSPluginApi.plugin_rpc:tunnel_sync
 OVSPluginApi.plugin_rpc->PluginApi:tunnel_sync
 PluginApi->oslo_messaging/rpc/client.RPCClient:prepare
