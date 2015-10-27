@@ -117,7 +117,7 @@ EndProjectSection # 依赖描述结尾
 
 
 ## 生成的dot
-``` dot
+``` 
 digraph G {
 rankdir=BT;
 gtest[shape=box,fontname=consolas];
