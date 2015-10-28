@@ -20,7 +20,7 @@ redcarpet:
 #   ,"html_toc"
   ]
 
-excerpt_separator:  '<!-- more -->'
+#excerpt_separator:  '<!-- more -->'
 
 
 paginate: 5
